@@ -21,5 +21,3 @@ It ask user for their area pincode and pick the date on which user wants to chec
 # API Used
 Api from api setu:- https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode=$pinCode&date=$date
 
-# Screenshots
-https://github.com/Vishnu-Murti-Pandey/Get-Your-Vaccine/tree/master/screenshots
